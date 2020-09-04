@@ -1,4 +1,4 @@
-module github.com/swaggo/http-swagger
+module github.com/erply/http-swagger
 
 go 1.13
 
